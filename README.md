@@ -1,4 +1,3 @@
-# road-accident-severity-model
 
 # Road Accident Severity Prediction Model 🚦
 
